@@ -1,16 +1,15 @@
-site_name: Sean D Stewart
-site_author: Sean D Stewart
+site_name: Book
+site_author: Pushkar
 copyright: "Copyright &copy; 2019 - 2020 Sean Stewart"
 site_url: https://seandstewart.io
-repo_url: https://github.com/seandstewart/website
-repo_name: seandstewart/website
+repo_url: https://github.com/dpshkr/booksite
+repo_name: dpshkr/booksite
 nav:
   - index.md
   - projects.md
   - words.md
   - pep20.md
   - contact.md
-  - scratches/workout.md
 theme:
   name: "material"
   favicon: "static/favicon/favicon.ico"
